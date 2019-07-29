@@ -44,9 +44,14 @@
 - the Really New God p84
 - The degree of fascination that a given machine holds for its users, she argues, is directly related to the degree of unpredictability and aliveness that it conveys. p85
 - Lightening the Odds: Virtual Reel Mapping p86
+- a video display of simulated reels p87
+- This unprecendented mathematical flexibility endowed gambling machines with a hitherto elusive "volatility" (or potential for dramatic wins), redoubling their market appeal. p87
+- For the first time, it became possible to alter a game's probabilities not by reconfiguring its hardware but by reconfiguring its software p89
 - Figure 3.2a Educational illustration of virtual reel mapping for a machine containing 32 virtual stops and 22 actual stops. p88
+- which appear far more weighted in their favor than they are (often carrying four jackpot symbols as in figure 3.2a) p89
 - Figure 3.2b Diagrammatic representation of a virtual reel. p89
 - Telnaes's patent, as quoted above, foregrounds the invention's power to mislead, or to "present greater chances of payoff than it actually has." p90
+
 - virtual reel mapping p91
 - By 1997, more than 80 percent of spinning reel slot machines used the algorithm. p91
 - Reconfiguring Loss: Near Misses p92
